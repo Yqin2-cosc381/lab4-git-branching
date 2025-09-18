@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: On the right path, change the story to give it an evil twist becoming corrupted.
 
 ## Final Checklist
 
