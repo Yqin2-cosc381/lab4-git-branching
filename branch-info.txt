@@ -10,10 +10,20 @@ Branches in this repo (with details):
     a774ec5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:17:47Z | Auto-update branch-info.txt
     9fe7532 | Author: Yuechun Qin <231552980+Yqin2-cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:17:33-04:00 | Initial commit
 - main
-  SHA: 3178a961285935c30e6bc7ed9e2e5c9fb3c95812
-  Commits: 4
+  SHA: 33ad54da9fd2a28265985445161b4a8a3a464bc6
+  Commits: 5
   Recent commits:
+    33ad54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T04:01:19Z | Auto-update branch-info.txt
     3178a96 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:58:52Z | Auto-update branch-info.txt
     c165b95 | Author: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Committer: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Date: 2025-09-17T23:51:44-04:00 | Added a center path.
     a774ec5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:17:47Z | Auto-update branch-info.txt
     9fe7532 | Author: Yuechun Qin <231552980+Yqin2-cosc381@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:17:33-04:00 | Initial commit
+- villain-path
+  SHA: 4435560a829f1cf6551da66c2f5e923a803e0102
+  Commits: 7
+  Recent commits:
+    4435560 | Author: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Committer: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Date: 2025-09-18T04:13:58Z | change the dscription of the villain-path in readme
+    a95bd16 | Author: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Committer: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Date: 2025-09-18T04:11:01Z | change right path stroy to becoming corrupted
+    33ad54d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T04:01:19Z | Auto-update branch-info.txt
+    3178a96 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:58:52Z | Auto-update branch-info.txt
+    c165b95 | Author: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Committer: Yuechun Qin <Yqin2-cosc381@users.noreply.github.com> | Date: 2025-09-17T23:51:44-04:00 | Added a center path.
